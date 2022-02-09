@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_29f22558_ea68_4637_b41e_e65508dde80a_\":{\"command\":\"killby brave && brave https://disneyplus.com\",\"name\":\"Disney+\"},\"_879dae5e_1f61_49f2_9eb5_fe0af60e2b69_\":{\"command\":\"kodi\",\"name\":\"Launch Kodi\"},\"_acd0d2f7_086e_4064_85e0_1ca2fe475b36_\":{\"command\":\"killby brave && brave https://www.amazon.de/Amazon-Video/b/ref=topnav_storetab_atv?node=3010075031&ie=UTF8\",\"name\":\"Prime Video\"},\"_e0cf30d7_7443_4f0c_8ea2_bb28b68118fb_\":{\"command\":\"killby brave && brave https://netflix.com\",\"name\":\"Netflix\"}})"

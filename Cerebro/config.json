@@ -1,0 +1,19 @@
+{
+  "locale": "en-US",
+  "lang": "en",
+  "country": "DE",
+  "theme": "../dist/main/css/themes/dark.css",
+  "hotkey": "Alt+s",
+  "showInTray": true,
+  "firstStart": false,
+  "developerMode": false,
+  "cleanOnHide": true,
+  "hideOnBlur": true,
+  "skipDonateDialog": false,
+  "lastShownDonateDialog": 1639158854154,
+  "plugins": {},
+  "isMigratedPlugins": true,
+  "trackingEnabled": false,
+  "crashreportingEnabled": false,
+  "openAtLogin": true
+}

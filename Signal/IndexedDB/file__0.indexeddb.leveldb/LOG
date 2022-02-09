@@ -1,0 +1,6 @@
+2022/01/14-22:16:55.560 cf5e3 Creating DB /home/juuls/.config/Signal/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2022/01/14-22:16:55.563 cf5e3 Reusing MANIFEST /home/juuls/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/01/14-22:16:55.717 cf5e2 Level-0 table #5: started
+2022/01/14-22:16:55.718 cf5e2 Level-0 table #5: 492 bytes OK
+2022/01/14-22:16:55.720 cf5e2 Delete type=0 #3
+2022/01/14-22:16:55.720 cf5e2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

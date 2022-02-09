@@ -1,0 +1,127 @@
+{"level":30,"time":"2022-01-14T21:16:54.270Z","pid":849337,"hostname":"EquinoXPS","msg":"key/initialize: Generating new encryption key, since we did not find it on disk"}
+{"level":30,"time":"2022-01-14T21:16:54.271Z","pid":849337,"hostname":"EquinoXPS","msg":"config/set: Saving user config to disk"}
+{"level":30,"time":"2022-01-14T21:16:54.279Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: migrateSchemaVersion: Migrating from schema_version 0 to user_version 0"}
+{"level":30,"time":"2022-01-14T21:16:54.280Z","pid":849337,"hostname":"EquinoXPS","msg":"app ready"}
+{"level":30,"time":"2022-01-14T21:16:54.280Z","pid":849337,"hostname":"EquinoXPS","msg":"starting version 5.27.1"}
+{"level":30,"time":"2022-01-14T21:16:54.280Z","pid":849337,"hostname":"EquinoXPS","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-01-14T21:16:54.281Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateSchema:\n  Current user_version: 0;\n  Most recent db schema: 48;\n  SQLite version: 3.36.0;\n  SQLCipher version: 4.5.0 community;\n  (deprecated) schema_version: 0;\n"}
+{"level":30,"time":"2022-01-14T21:16:54.281Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion1: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.283Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion1: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.283Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion2: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.284Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion2: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.284Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion3: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.285Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion3: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.285Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion4: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.286Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion4: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.286Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion6: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.287Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion6: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.287Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion7: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.289Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion7: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.289Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion8: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.290Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion8: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.290Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion9: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.291Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion9: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.291Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion10: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.292Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion10: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.293Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion11: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.293Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion11: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.294Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion12: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.295Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion12: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.295Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion13: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.296Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion13: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.296Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion14: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.298Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion14: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.298Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion15: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.299Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion15: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.299Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion16: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.300Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion16: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.300Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion17: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.301Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion17: Index messages_view_once did not already exist"}
+{"level":30,"time":"2022-01-14T21:16:54.302Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion17: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.302Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion18: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.304Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion18: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.304Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion19: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.306Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion19: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.306Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion20: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.309Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion20: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.311Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion21: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.312Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion22: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.314Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion23: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.315Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion24: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.318Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion25: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.319Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion26: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.319Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion27: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.320Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion28: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.321Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion29: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.322Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion30: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.322Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion31: starting..."}
+{"level":30,"time":"2022-01-14T21:16:54.324Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion31: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.325Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion32: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.327Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion33: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.327Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion34: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.328Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion35: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.329Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion36: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.331Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion37: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.334Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion38: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.336Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion39: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.337Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion40: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.341Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion41: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.342Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion42: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.342Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion43: About to iterate through 0 conversations"}
+{"level":30,"time":"2022-01-14T21:16:54.342Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion43: About to iterate through 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:54.342Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion43: Updated 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:54.343Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion43: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.344Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion44: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.345Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion45: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.347Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion46: success!"}
+{"level":40,"time":"2022-01-14T21:16:54.350Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion47: our UUID not found"}
+{"level":30,"time":"2022-01-14T21:16:54.351Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion47: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.352Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: updateToSchemaVersion48: success!"}
+{"level":30,"time":"2022-01-14T21:16:54.352Z","pid":849337,"hostname":"EquinoXPS","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-01-14T21:16:54.352Z","pid":849337,"hostname":"EquinoXPS","msg":"got slow spellcheck setting true"}
+{"level":30,"time":"2022-01-14T21:16:54.352Z","pid":849337,"hostname":"EquinoXPS","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":50,"time":"2022-01-14T21:16:54.353Z","pid":849337,"hostname":"EquinoXPS","msg":"visibleOnAnyScreen: windowOptions didn't have valid bounds fields"}
+{"level":30,"time":"2022-01-14T21:16:54.353Z","pid":849337,"hostname":"EquinoXPS","msg":"Location reset needed"}
+{"level":30,"time":"2022-01-14T21:16:54.353Z","pid":849337,"hostname":"EquinoXPS","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":800,\"height\":610,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#3a76f0\",\"webPreferences\":{\"devTools\":false,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"nativeWindowOpen\":true,\"spellcheck\":true,\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\"}"}
+{"level":30,"time":"2022-01-14T21:16:54.380Z","pid":849337,"hostname":"EquinoXPS","msg":"spellcheck: user locale: en-US"}
+{"level":30,"time":"2022-01-14T21:16:54.380Z","pid":849337,"hostname":"EquinoXPS","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-01-14T21:16:54.380Z","pid":849337,"hostname":"EquinoXPS","msg":"spellcheck: setting languages to:  [\"en-US\"]"}
+{"level":30,"time":"2022-01-14T21:16:54.385Z","pid":849337,"hostname":"EquinoXPS","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-01-14T21:16:54.389Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: created"}
+{"level":30,"time":"2022-01-14T21:16:54.389Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-01-14T21:16:54.389Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-14T21:16:54.389Z","pid":849337,"hostname":"EquinoXPS","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-01-14T21:16:54.391Z","pid":849337,"hostname":"EquinoXPS","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-01-14T21:16:54.392Z","pid":849337,"hostname":"EquinoXPS","msg":"Finish ensuring permissions in 3ms"}
+{"level":30,"time":"2022-01-14T21:16:55.430Z","pid":849337,"hostname":"EquinoXPS","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-01-14T21:16:55.430Z","pid":849337,"hostname":"EquinoXPS","msg":"showing main window"}
+{"level":30,"time":"2022-01-14T21:16:55.431Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-14T21:16:55.731Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownAttachments: About to iterate through 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:55.731Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownAttachments: Done processing 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:55.731Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownAttachments: About to iterate through 0 conversations"}
+{"level":30,"time":"2022-01-14T21:16:55.731Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownAttachments: Done processing 0 conversations"}
+{"level":30,"time":"2022-01-14T21:16:55.731Z","pid":849337,"hostname":"EquinoXPS","msg":"deleteAll: deleted 0 files"}
+{"level":30,"time":"2022-01-14T21:16:55.732Z","pid":849337,"hostname":"EquinoXPS","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2022-01-14T21:16:55.733Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownStickers: About to iterate through 0 stickers"}
+{"level":30,"time":"2022-01-14T21:16:55.733Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownStickers: Done processing 0 stickers"}
+{"level":30,"time":"2022-01-14T21:16:55.733Z","pid":849337,"hostname":"EquinoXPS","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 0 conversations"}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849337,"hostname":"EquinoXPS","msg":"MainSQL: removeKnownDraftAttachments: Done processing 0 conversations"}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849337,"hostname":"EquinoXPS","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849337,"hostname":"EquinoXPS","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849337,"hostname":"EquinoXPS","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-01-14T21:16:55.737Z","pid":849337,"hostname":"EquinoXPS","msg":"Ensuring file permissions for 57 files"}
+{"level":50,"time":"2022-01-14T21:16:55.738Z","pid":849337,"hostname":"EquinoXPS","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonCookie'"}
+{"level":50,"time":"2022-01-14T21:16:55.738Z","pid":849337,"hostname":"EquinoXPS","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonLock'"}
+{"level":30,"time":"2022-01-14T21:16:55.739Z","pid":849337,"hostname":"EquinoXPS","msg":"Finish ensuring permissions in 5ms"}
+{"level":30,"time":"2022-01-14T21:16:55.759Z","pid":849337,"hostname":"EquinoXPS","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2022-01-14T21:16:55.761Z","pid":849337,"hostname":"EquinoXPS","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2022-01-14T21:16:55.938Z","pid":849337,"hostname":"EquinoXPS","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":836,\"height\":444,\"x\":1085,\"y\":633}"}
+{"level":30,"time":"2022-01-14T21:16:55.939Z","pid":849337,"hostname":"EquinoXPS","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-01-14T21:17:48.223Z","pid":849337,"hostname":"EquinoXPS","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-01-14T21:17:48.228Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-01-14T21:17:48.228Z","pid":849337,"hostname":"EquinoXPS","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-01-14T21:17:48.231Z","pid":849337,"hostname":"EquinoXPS","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-01-14T21:17:48.239Z","pid":849337,"hostname":"EquinoXPS","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-01-14T21:17:48.239Z","pid":849337,"hostname":"EquinoXPS","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-01-14T21:17:48.242Z","pid":849337,"hostname":"EquinoXPS","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}

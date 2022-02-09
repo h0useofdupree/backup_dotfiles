@@ -1,0 +1,8 @@
+profile docked {
+    output eDP-1 disable
+    output DP-6 mode 1920x1080@144Hz
+    output DP-4 mode 1680x1050 transform 90 position 1920,0
+}
+profile undocked {
+    output eDP-1 enable mode 1920x1200@60Hz
+}

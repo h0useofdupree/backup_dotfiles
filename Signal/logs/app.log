@@ -1,0 +1,119 @@
+{"level":30,"time":"2022-01-14T21:16:55.028Z","pid":849401,"hostname":"EquinoXPS","msg":"x-attr dependency did not load successfully"}
+{"level":30,"time":"2022-01-14T21:16:55.052Z","pid":849401,"hostname":"EquinoXPS","msg":"preload complete"}
+{"level":30,"time":"2022-01-14T21:16:55.055Z","pid":849401,"hostname":"EquinoXPS","msg":"@signalapp/signal-client Initializing libsignal-client version:0.11.1 signal_node::logging rust/bridge/node/src/logging.rs:139"}
+{"level":30,"time":"2022-01-14T21:16:55.431Z","pid":849401,"hostname":"EquinoXPS","msg":"NotificationService initialized"}
+{"level":30,"time":"2022-01-14T21:16:55.446Z","pid":849401,"hostname":"EquinoXPS","msg":"initializeMessageCounter: picking stored counter"}
+{"level":30,"time":"2022-01-14T21:16:55.446Z","pid":849401,"hostname":"EquinoXPS","msg":"Our profile key service: initializing"}
+{"level":30,"time":"2022-01-14T21:16:55.477Z","pid":849401,"hostname":"EquinoXPS","msg":"background page reloaded"}
+{"level":30,"time":"2022-01-14T21:16:55.477Z","pid":849401,"hostname":"EquinoXPS","msg":"environment: production"}
+{"level":30,"time":"2022-01-14T21:16:55.555Z","pid":849401,"hostname":"EquinoXPS","msg":"Checking for the existence of IndexedDB data..."}
+{"level":30,"time":"2022-01-14T21:16:55.716Z","pid":849401,"hostname":"EquinoXPS","msg":"Storage fetch"}
+{"level":40,"time":"2022-01-14T21:16:55.717Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager authenticate was called without credentials"}
+{"level":30,"time":"2022-01-14T21:16:55.718Z","pid":849401,"hostname":"EquinoXPS","msg":"delivery receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.718Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"normal message send job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"normal message send\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"reactions job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"reactions\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"read receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"read sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"read sync\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"remove storage key job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"report spam job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"report spam\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"view sync job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"view sync\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"viewed receipts job queue: starting to stream jobs"}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore fetching existing jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.719Z","pid":849401,"hostname":"EquinoXPS","msg":"Initializing MessageReceiver"}
+{"level":30,"time":"2022-01-14T21:16:55.720Z","pid":849401,"hostname":"EquinoXPS","msg":"Sender certificate service initialized"}
+{"level":30,"time":"2022-01-14T21:16:55.721Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"delivery receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"normal message send\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"reactions\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"read sync\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"remove storage key\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"report spam\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"view sync\""}
+{"level":30,"time":"2022-01-14T21:16:55.722Z","pid":849401,"hostname":"EquinoXPS","msg":"JobQueueDatabaseStore finished fetching existing 0 jobs for queue \"viewed receipts\""}
+{"level":30,"time":"2022-01-14T21:16:55.734Z","pid":849401,"hostname":"EquinoXPS","msg":"data.startInRendererProcess: switching to renderer process"}
+{"level":30,"time":"2022-01-14T21:16:55.737Z","pid":849401,"hostname":"EquinoXPS","msg":"data.startInRendererProcess: switched to renderer process"}
+{"level":30,"time":"2022-01-14T21:16:55.737Z","pid":849401,"hostname":"EquinoXPS","msg":"Starting background data migration. Target version: 10"}
+{"level":30,"time":"2022-01-14T21:16:55.737Z","pid":849401,"hostname":"EquinoXPS","msg":"GET (WS) https://chat.signal.org/v1/config"}
+{"level":30,"time":"2022-01-14T21:16:55.738Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager: connecting unauthenticated socket"}
+{"level":40,"time":"2022-01-14T21:16:55.742Z","pid":849401,"hostname":"EquinoXPS","msg":"Failed to parse integer out of desktop.retryReceiptLifespan feature flag Error: retryReceiptLifeSpan\n    at parseIntOrThrow ([REDACTED]/resources/app.asar/preload.bundle.js:2:8331411)\n    at [REDACTED]/resources/app.asar/preload.bundle.js:2:4971801\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":30,"time":"2022-01-14T21:16:55.742Z","pid":849401,"hostname":"EquinoXPS","msg":"RetryPlaceholders.constructor: Started with 0 items, lifespan of 3600000"}
+{"level":30,"time":"2022-01-14T21:16:55.742Z","pid":849401,"hostname":"EquinoXPS","msg":"ConversationController: starting initial fetch"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"SignalProtocolStore: Finished caching identityKeys data"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"SignalProtocolStore: Finished caching sessions data"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"SignalProtocolStore: Finished caching preKeys data"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"SignalProtocolStore: Finished caching senderKeys data"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"SignalProtocolStore: Finished caching signedPreKeys data"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"ConversationController: done with initial fetch"}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"checkForConflicts: starting..."}
+{"level":30,"time":"2022-01-14T21:16:55.744Z","pid":849401,"hostname":"EquinoXPS","msg":"checkForConflicts: complete!"}
+{"level":30,"time":"2022-01-14T21:16:55.745Z","pid":849401,"hostname":"EquinoXPS","msg":"challenge: loading 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:55.745Z","pid":849401,"hostname":"EquinoXPS","msg":"Initializing network observer"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"Build expires:  2022-04-07T02:50:05.000Z"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"challenge: loaded 0 messages"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"BadgeDownloader#checkForFilesToDownload: downloading 0 badge(s)"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"Expiration start timestamp cleanup: starting..."}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"Expiration start timestamp cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"Expiration start timestamp cleanup: complete"}
+{"level":30,"time":"2022-01-14T21:16:55.750Z","pid":849401,"hostname":"EquinoXPS","msg":"listening for registration events"}
+{"level":30,"time":"2022-01-14T21:16:55.757Z","pid":849401,"hostname":"EquinoXPS","msg":"checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2022-01-14T21:16:55.775Z","pid":849401,"hostname":"EquinoXPS","msg":"Renderer SQL channel job (getSoonestMessageExpiry) completed in 18ms"}
+{"level":30,"time":"2022-01-14T21:16:55.775Z","pid":849401,"hostname":"EquinoXPS","msg":"Renderer SQL channel job (getNextTapToViewMessageTimestampToAgeOut) completed in 18ms"}
+{"level":30,"time":"2022-01-14T21:16:55.776Z","pid":849401,"hostname":"EquinoXPS","msg":"checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2022-01-14T21:16:55.777Z","pid":849401,"hostname":"EquinoXPS","msg":"src/core/call_manager.rs:343 RingRTC v2.16.1"}
+{"level":30,"time":"2022-01-14T21:16:56.373Z","pid":849401,"hostname":"EquinoXPS","msg":"provisioning socket open"}
+{"level":30,"time":"2022-01-14T21:16:56.448Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager: connected unauthenticated socket"}
+{"level":30,"time":"2022-01-14T21:16:56.448Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager: starting expiration timer for unauthenticated socket"}
+{"level":50,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"Got 401 from Signal Server. We might be unlinked."}
+{"level":30,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"reconnectToWebSocket starting..."}
+{"level":30,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager.onOffline"}
+{"level":40,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"WebSocket: closing socket unauthenticated"}
+{"level":30,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"WebSocketResource.close()"}
+{"level":30,"time":"2022-01-14T21:16:56.598Z","pid":849401,"hostname":"EquinoXPS","msg":"SocketManager.onOnline"}
+{"level":50,"time":"2022-01-14T21:16:56.599Z","pid":849401,"hostname":"EquinoXPS","msg":"GET (WS) https://chat.signal.org/v1/config 401 Error"}
+{"level":30,"time":"2022-01-14T21:16:56.599Z","pid":849401,"hostname":"EquinoXPS","msg":"reconnectToWebSocket complete."}
+{"level":50,"time":"2022-01-14T21:16:56.599Z","pid":849401,"hostname":"EquinoXPS","msg":"Top-level unhandled promise rejection: HTTPError: promiseAjax: error response; code: 401\n    at makeHTTPError ([REDACTED]/resources/app.asar/preload.bundle.js:2:8015940)\n    at _promiseAjax ([REDACTED]/resources/app.asar/preload.bundle.js:2:8014743)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async _retryAjax ([REDACTED]/resources/app.asar/preload.bundle.js:2:8011922)\n    at async _ajax ([REDACTED]/resources/app.asar/preload.bundle.js:2:8050593)\n    at async Object.getConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:8025062)\n    at async exports.refreshRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:4912313)\n    at async Object.initRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:4911977)\nOriginal stack:\nError\n    at _outerAjax ([REDACTED]/resources/app.asar/preload.bundle.js:2:8015824)\n    at _ajax ([REDACTED]/resources/app.asar/preload.bundle.js:2:8050599)\n    at Object.getConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:8025068)\n    at exports.refreshRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:4912326)\n    at invokeFunc ([REDACTED]/resources/app.asar/preload.bundle.js:2:2848580)\n    at leadingEdge ([REDACTED]/resources/app.asar/preload.bundle.js:2:2848700)\n    at debounced ([REDACTED]/resources/app.asar/preload.bundle.js:2:2849472)\n    at Object.initRemoteConfig ([REDACTED]/resources/app.asar/preload.bundle.js:2:4912018)\n    at [REDACTED]/resources/app.asar/preload.bundle.js:2:4971714\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":40,"time":"2022-01-14T21:16:56.647Z","pid":849401,"hostname":"EquinoXPS","msg":"WebSocketResource: Socket closed"}
+{"level":30,"time":"2022-01-14T21:17:47.940Z","pid":849401,"hostname":"EquinoXPS","msg":"NotificationService: clearing notification and requesting an update"}
+{"level":40,"time":"2022-01-14T21:17:47.941Z","pid":849401,"hostname":"EquinoXPS","msg":"registerForActive: Failed to to refresh remote config. Code: 401"}
+{"level":30,"time":"2022-01-14T21:17:47.943Z","pid":849401,"hostname":"EquinoXPS","msg":"src/core/call_manager.rs:263 CallManager: Dropping last reference."}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"background/shutdown"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing messageBatcher.updateMessageBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete messageBatcher.updateMessageBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing messageBatcher.updateMessageBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete messageBatcher.updateMessageBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"waitBatcher#waitForAllWaitBatchers"}
+{"level":30,"time":"2022-01-14T21:17:48.229Z","pid":849401,"hostname":"EquinoXPS","msg":"data.shutdown: shutdown requested. 0 jobs outstanding"}
+{"level":30,"time":"2022-01-14T21:17:48.240Z","pid":849401,"hostname":"EquinoXPS","msg":"NotificationService: clearing notification and updating"}
+{"level":30,"time":"2022-01-14T21:17:48.240Z","pid":849401,"hostname":"EquinoXPS","msg":"NotificationService not updating notifications. Notifications are disabled; app is focused; there is no notification data"}

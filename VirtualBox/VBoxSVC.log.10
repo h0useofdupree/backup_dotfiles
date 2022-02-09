@@ -1,0 +1,108 @@
+00:00:00.002708 main     VirtualBox XPCOM Server 6.1.32 r149290 linux.amd64 (Jan 18 2022 20:32:19) release log
+00:00:00.002710 main     Log opened 2022-01-21T06:59:06.257384000Z
+00:00:00.002710 main     Build Type: release
+00:00:00.002712 main     OS Product: Linux
+00:00:00.002712 main     OS Release: 5.16.1-zen1-1-zen
+00:00:00.002713 main     OS Version: #1 ZEN SMP PREEMPT Sun, 16 Jan 2022 11:39:20 +0000
+00:00:00.002726 main     DMI Product Name: XPS 15 9510
+00:00:00.002730 main     DMI Product Version: 
+00:00:00.002733 main     Firmware type: UEFI
+00:00:00.003389 main     Secure Boot: Disabled
+00:00:00.003412 main     Host RAM: 15723MB (15.3GB) total, 14157MB (13.8GB) available
+00:00:00.003414 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003414 main     Process ID: 71207
+00:00:00.003414 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.004964 main     IPC socket path: /tmp/.vbox-juuls-ipc/ipcd
+00:00:00.110373 nspr-2   VirtualBox: object creation starts
+00:00:00.110567 nspr-2   Home directory: '/home/juuls/.config/VirtualBox'
+00:00:00.111490 nspr-2   Loading settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.112866 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.113005 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.122717 nspr-2   HostDnsMonitor: initializing
+00:00:00.123012 nspr-2   HostDnsMonitor: updating information
+00:00:00.123027 nspr-2   HostDnsMonitor: unchanged
+00:00:00.127198 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.131473 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Clients/WinClient/WinClient.vbox" with version "1.15-linux"
+00:00:00.132475 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/WinServ2016.vbox" with version "1.15-linux"
+00:00:00.133210 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/Servers/OpenSuse WebServer/OpenSuse WebServer.vbox" with version "1.17-linux"
+00:00:00.134134 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/ITA2/Clients/OpenSuse Client/OpenSuse Client.vbox" with version "1.17-linux"
+00:00:00.134845 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/ITA2/Clients/Windows 10 Client/Windows 10 Client.vbox" with version "1.15-linux"
+00:00:00.135502 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/Private/Arch/Arch.vbox" with version "1.18-linux"
+00:00:00.136359 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/Private/HomeAssistant/HomeAssistant.vbox" with version "1.18-linux"
+00:00:00.137038 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/Private/WinVMPersonal/WinVMPersonal.vbox" with version "1.15-linux"
+00:00:00.137823 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/KOM/KOM/WinServ2016 Clone/WinServ2016 Clone.vbox" with version "1.15-linux"
+00:00:00.138569 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/KOM/KOM/KOM/WinClient Clone/WinClient Clone.vbox" with version "1.15-linux"
+00:00:00.139199 nspr-2   Loading settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/WinServ2016/WinServ2016.vbox" with version "1.15-linux"
+00:00:00.139839 nspr-2   Loading settings file "/home/juuls/VirtualBox VMs/BEN/WinClient10/WinClient10.vbox" with version "1.15-linux"
+00:00:00.140671 nspr-2   OCI: Local config file '/home/juuls/.config/VirtualBox/oci_config' does not exist
+00:00:00.140707 nspr-2   OCI: Original config file '/home/juuls/.oci/config' does not exist
+00:00:00.140714 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.140731 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.140741 nspr-2   VirtualBox: object created
+00:00:02.962651 nspr-6   Launched VM: 3221238544 pid: 71250 (0x11652) frontend: GUI/Qt name: WinServ2016
+00:00:03.739625 nspr-3   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:00:03.930112 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:08.773932 nspr-4   Launched VM: 3221237232 pid: 72984 (0x11d18) frontend: GUI/Qt name: WinClient
+00:00:09.745128 nspr-7   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:00:09.935128 nspr-6   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:07:57.914749 nspr-5   Saving settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Clients/WinClient/WinClient.vbox" with version "1.15-linux"
+00:19:10.787222 dns-monitor NAT: resolv.conf: nameserver 192.168.251.28
+00:19:10.787522 dns-monitor NAT: resolv.conf: nameserver 2a00:20:45:4c4f::bf
+00:19:10.787538 dns-monitor HostDnsMonitor: updating information
+00:19:10.787566 dns-monitor HostDnsMonitor: old information
+00:19:10.787570 dns-monitor   no server entries
+00:19:10.787572 dns-monitor   no domain set
+00:19:10.787575 dns-monitor   no search string entries
+00:19:10.787577 dns-monitor HostDnsMonitor: new information
+00:19:10.787580 dns-monitor   server 1: 192.168.251.28
+00:19:10.787583 dns-monitor   server 2: 2a00:20:45:4c4f::bf
+00:19:10.787585 dns-monitor   no domain set
+00:19:10.787588 dns-monitor   no search string entries
+01:15:33.195423 nspr-4   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.204169 nspr-4   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.208641 nspr-6   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.212891 nspr-4   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.218134 nspr-7   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.223392 nspr-6   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.227536 nspr-4   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.231837 nspr-2   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.236173 nspr-7   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.240842 nspr-6   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.245303 nspr-8   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.249531 nspr-4   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.253579 nspr-7   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.257857 nspr-8   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.262508 nspr-5   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.266646 nspr-3   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.271101 nspr-2   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.275695 nspr-6   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.280075 nspr-5   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.284395 nspr-2   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:33.288804 nspr-6   Saving settings file "/home/juuls/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:15:42.820130 nspr-3   Saving settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Clients/WinClient/WinClient.vbox" with version "1.15-linux"
+01:15:42.837359 nspr-6   Saving settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Clients/WinClient/WinClient.vbox" with version "1.15-linux"
+01:15:51.687560 nspr-3   Saving settings file "/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/WinServ2016.vbox" with version "1.15-linux"
+01:15:57.869138 main     VirtualBox: object deletion starts
+01:15:57.869252 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Clients/WinClient/WinClient.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869430 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/WinServ2016.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869441 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/RAID_Vol_1.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869449 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/RAID_Vol_2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869456 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/ITA3/Servers/WinServ2016/RAID_Vol_3.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869546 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/Servers/OpenSuse WebServer/OpenSuse WEB.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869621 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/ITA2/Clients/OpenSuse Client/OpenSuseGUI.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869692 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/ITA2/Clients/Windows 10 Client/WIn10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869792 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/Private/Arch/Arch_2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869871 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/juuls/Downloads/hassos_ova-5.13.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.869938 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/Private/WinVMPersonal/WinVMPersonal.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870029 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/KOM/KOM/WinServ2016 Clone/WinServ2016 Clone.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870038 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/KOM/KOM/WinServ2016 Clone/WinServ2016 Clone-disk1.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870046 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/KOM/KOM/WinServ2016 Clone/WinServ2016 Clone-disk2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870053 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/KOM/KOM/WinServ2016 Clone/WinServ2016 Clone-disk3.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870136 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/KOM/KOM/KOM/WinClient Clone/WinClient Clone.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870218 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/run/media/juuls/Zagreus Omega/BEN/BEN/WinServ2016/WinServ2016.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870280 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/juuls/VirtualBox VMs/BEN/WinClient10/WinClient10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:15:57.870668 main     HostDnsMonitor: shutting down ...
+01:15:57.874524 main     HostDnsMonitor: shut down
+01:15:58.198281 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:16:02.878603 main     {00007fd5c401a620} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+01:16:02.879309 main     VirtualBox: object deleted

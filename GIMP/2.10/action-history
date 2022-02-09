@@ -1,0 +1,11 @@
+# GIMP action-history
+
+(history-item "file-print-gtk" 3)
+(history-item "edit-cut" 0)
+(history-item "file-open" 0)
+(history-item "file-save" 0)
+(history-item "file-export-as" 0)
+(history-item "file-quit" 1)
+(history-item "file-print-gutenprint" 1)
+
+# end of action-history

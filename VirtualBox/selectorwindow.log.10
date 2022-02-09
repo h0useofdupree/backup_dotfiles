@@ -1,0 +1,18 @@
+00:00:00.397825 VirtualBox GUI VM Selector Window 6.1.32 r149290 linux.amd64 (Jan 18 2022 20:32:19) release log
+00:00:00.397828 Log opened 2022-01-24T08:44:21.667583000Z
+00:00:00.397829 Build Type: release
+00:00:00.397832 OS Product: Linux
+00:00:00.397833 OS Release: 5.16.2-zen1-1-zen
+00:00:00.397834 OS Version: #1 ZEN SMP PREEMPT Thu, 20 Jan 2022 16:18:31 +0000
+00:00:00.397853 DMI Product Name: XPS 15 9510
+00:00:00.397860 DMI Product Version: 
+00:00:00.397865 Firmware type: UEFI
+00:00:00.398560 Secure Boot: Disabled
+00:00:00.398591 Host RAM: 15723MB (15.3GB) total, 14172MB (13.8GB) available
+00:00:00.398596 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.398596 Process ID: 29866
+00:00:00.398597 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.398620 Qt version: 5.15.2
+00:00:00.411761 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.797658 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 30x55 x 1009x1125
+00:00:00.806543 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{function e(){return window.ethereum}function t(e){window.ethereum=e}const n=e();if(!n)return;const o=new Proxy(n,{get:(e,o,i)=>(window.postMessage({type:"ethereum-property-get",data:{}},window.location.origin),t(n),Reflect.get(e,o,i))});t(o),window.addEventListener("message",(i=>{"agent_disconnected"===i.data.type&&e()===o&&t(n)}))})()})();
