@@ -572,8 +572,7 @@
       },
       "sysPrefix": "/usr",
       "fileHash": "d5443b1e2c84371fabbfe959159bbf0999704df914fb3b375615a582f71145bffa5ae0d0c579f9e3067a98d2af87258d0b317f5f9157bc2833c1e08c4587a4cb",
-      "type": "Unknown",
-      "cachedEntry": true
+      "type": "Unknown"
     },
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
@@ -1419,7 +1418,6 @@
       "sysPrefix": "/usr",
       "fileHash": "d5443b1e2c84371fabbfe959159bbf0999704df914fb3b375615a582f71145bffa5ae0d0c579f9e3067a98d2af87258d0b317f5f9157bc2833c1e08c4587a4cb",
       "type": "Unknown",
-      "cachedEntry": true,
       "displayName": "Python 3.10.2 64-bit"
     },
     "/usr/bin/python.interpreter.Details.v7": {
@@ -1685,7 +1683,6 @@
       "sysPrefix": "/usr",
       "fileHash": "d5443b1e2c84371fabbfe959159bbf0999704df914fb3b375615a582f71145bffa5ae0d0c579f9e3067a98d2af87258d0b317f5f9157bc2833c1e08c4587a4cb",
       "type": "Unknown",
-      "cachedEntry": true,
       "displayName": "Python 3.10.2 64-bit"
     }
   },
@@ -2041,6 +2038,35 @@
     "INTERPRETERS_CACHE_v3_PipEnvService:4fc298cb8f1e2772c009d12a73a99100": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4fc298cb8f1e2772c009d12a73a99100": [],
     "autoSelectedWorkspacePythonInterpreter-/usr/lib/python3.10/site-packages/libqtile/widget": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.2-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.2-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "d5443b1e2c84371fabbfe959159bbf0999704df914fb3b375615a582f71145bffa5ae0d0c579f9e3067a98d2af87258d0b317f5f9157bc2833c1e08c4587a4cb",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/juuls/.config": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d42c854fc91ad3fdca7f4d616fb6030d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d42c854fc91ad3fdca7f4d616fb6030d": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/juuls/.config": {
       "architecture": 3,
       "path": "/usr/bin/python",
       "version": {

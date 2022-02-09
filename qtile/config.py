@@ -3,6 +3,7 @@ import os
 import re
 import socket
 import subprocess
+import json
 from libqtile import qtile
 from libqtile.config import Click, Drag, Group, KeyChord, Key, Match, Screen
 from libqtile.command import lazy
@@ -180,7 +181,7 @@ dgroups_key_binder = simple_key_binder("mod1")
 layout_theme = {
     "border_width": 1,
     "margin": 15,
-    "border_focus": "e1acff",
+    "border_focus": "FF8888",
     "border_normal": "1D2330"
 }
 
@@ -231,6 +232,18 @@ colors = [["#282c34", "#282c34"],
           ["#c678dd", "#c678dd"],
           ["#46d9ff", "#46d9ff"],
           ["#a9a1e1", "#a9a1e1"]]
+#Pywal Colors
+colors_json = os.path.expanduser('~/.cache/wal/colors.json')
+colordict = json.load(open(colors_json))
+wal_colors = [[colordict['colors']['color0'], colordict['colors']['color0']],
+          [colordict['colors']['color1'], colordict['colors']['color1']],
+          [colordict['colors']['color2'], colordict['colors']['color2']],
+          [colordict['colors']['color4'], colordict['colors']['color4']],
+          [colordict['colors']['color5'], colordict['colors']['color5']],
+          [colordict['colors']['color6'], colordict['colors']['color6']],
+          [colordict['colors']['color7'], colordict['colors']['color7']],
+          [colordict['colors']['color8'], colordict['colors']['color8']],
+          [colordict['colors']['color9'], colordict['colors']['color9']]]
 
 prompt = "{0}@{1}: ".format(os.environ["USER"], socket.gethostname())
 
@@ -256,18 +269,18 @@ def init_widgets_list():
                    padding=6,
                    foreground='#FFFFFF',
                    background=colors[0]),
-        widget.GroupBox(font="Ubuntu Mono",
-                        fontsize=9,
+        widget.GroupBox(font="Ubuntu Mono Bold",
+                        fontsize=11,
                         margin_y=3,
                         margin_x=0,
                         padding_y=5,
                         padding_x=3,
                         borderwidth=3,
-                        active=colors[2],
+                        active=colordict['colors']['color1'],
                         inactive=colors[7],
-                        rounded=False,
+                        rounded=True,
                         highlight_color=colors[1],
-                        highlight_method="line",
+                        highlight_method="bar",
                         this_current_screen_border=colors[6],
                         this_screen_border=colors[4],
                         other_current_screen_border=colors[6],

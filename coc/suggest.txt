@@ -1,3 +1,9 @@
+Ubu|Ubuntu|around
+colordi|colordict|jedi
+enc|encoding=|jedi
+color|colordict|jedi
+colors_|colors_json|jedi
+colo|colors|around
 keybo|keyboardlayout|around
 us|usr|around
 |qtile_set_default_kb_layout.sh|file
@@ -32,10 +38,7 @@ subpro|subprocess|jedi
 stdou|stdout=|jedi
 PATH|PATH_TO_IMAGE|around
 arg|argv|jedi
-colors_|colors_json|jedi
 colors|colors|jedi
-color|colordict|jedi
-colordi|colordict|jedi
 color|colordict|around
 window|window_to_previous_screen|around
 spa|spawn|around
