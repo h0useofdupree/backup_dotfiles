@@ -1,5 +1,13 @@
-Ubu|Ubuntu|around
+rest|restart|around
+spw|spawn|around
+spaw|spawn|around
+KeyCho|KeyChord|around
+Key|KeyChord|jedi
+mar|margin|around
+roun|rounded|around
 colordi|colordict|jedi
+foregr|foreground|around
+Ubu|Ubuntu|around
 enc|encoding=|jedi
 color|colordict|jedi
 colors_|colors_json|jedi
@@ -42,7 +50,6 @@ colors|colors|jedi
 color|colordict|around
 window|window_to_previous_screen|around
 spa|spawn|around
-mar|margin|around
 alt|alt_mod|jedi
 lay|lazy|jedi
 alt_|alt_mod|jedi

@@ -28,6 +28,7 @@ Plug 'junegunn/seoul256.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'stevearc/vim-arduino'
 Plug 'arcticicestudio/nord-vim'
+Plug 'vim-python/python-syntax'
 
 call plug#end()
 "}}}
@@ -106,6 +107,10 @@ let g:neomake_python_enabled_makers = ['pylint']
 
 " Toggle Tree Keybind 
 nnoremap <silent> <C-k><C-b> :NERDTreeToggle<CR> " Vim-Plug
+"}}}
+"{{{Python Syntax
+let g:python_highlight_string_format = 1
+let g:python_highlight_builtin_objs  = 1
 "}}}
 
 "{{{LaTeXLive/PDFTex
