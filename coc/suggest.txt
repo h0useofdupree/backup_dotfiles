@@ -1,3 +1,12 @@
+colordi|colordict|jedi
+backgrou|background|around
+widge|widget|jedi
+help|help=|jedi
+store|store_true|around
+actio|action=|jedi
+defau|default=|jedi
+add|add_argument|jedi
+parse_|parse_args|around
 rest|restart|around
 spw|spawn|around
 spaw|spawn|around
@@ -5,7 +14,6 @@ KeyCho|KeyChord|around
 Key|KeyChord|jedi
 mar|margin|around
 roun|rounded|around
-colordi|colordict|jedi
 foregr|foreground|around
 Ubu|Ubuntu|around
 enc|encoding=|jedi
@@ -67,18 +75,15 @@ SECOND|SECONDARY_SUBSTRING|around
 argume|arguments|around
 dest|dest=|jedi
 act|action=|jedi
-help|help=|jedi
 a|add_argument|jedi
 grp_|grp_optional|jedi
 add|add_argument_group|jedi
 meta|metavar=|jedi
 typ|type=|jedi
 des|dest=|jedi
-actio|action=|jedi
 Select|Selects|around
 ad|add_argument|jedi
 grp_wall|grp_wallpaper|jedi
-store|store_true|around
 acti|action=|jedi
 fol|folder|around
 sto|store_true|around
@@ -90,7 +95,6 @@ wall|wallpaper|around
 Wallpa|Wallpaper|around
 Selec|Selects|around
 grp|grp_wallpaper|jedi
-add|add_argument|jedi
 ac|action=|jedi
 ran|random|around
 add|add_argument_group|around
@@ -113,7 +117,6 @@ lay|layout|jedi
 qti|qtile|jedi
 libq|libqtile|around
 WindowNam|WindowName|around
-widge|widget|jedi
 GroupB|GroupBox|around
 Scree|Screen|jedi
 load|loader|jedi

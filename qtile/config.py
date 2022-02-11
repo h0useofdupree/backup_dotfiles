@@ -123,27 +123,29 @@ keys = [
     Key([], "XF86AudioMute", lazy.spawn("amixer sset Master toggle")),
     Key([], "XF86MonBrightnessUp", lazy.spawn("xbacklight -inc 10")),
     Key([], "XF86MonBrightnessDown", lazy.spawn("xbacklight -dec 10")),
-    Key([mod], "s", lazy.spawn("rofi -show run")),
-    Key([mod], "e", lazy.spawn("rofi -show emoji -modi emoji -theme arthur")),
-    Key([mod], "c", lazy.spawn("rofi -show calc -modi calc -theme arthur")),
     Key([alt_mod], "l", lazy.spawn("i3lock-fancy-dualmonitor")),
     Key([alt_mod, "shift"], "l", lazy.spawn("fish -c 'sus'")),
     Key([alt_mod, "shift"], "s", lazy.spawn("fish -c 'speakers on'")),
     Key([alt_mod, "shift", "control"], "s",
         lazy.spawn("fish -c 'speakers off'")),
+    ## Programs
+    Key([mod], "s", lazy.spawn("rofi -show run")),
+    Key([mod], "e", lazy.spawn("rofi -show emoji -modi emoji -theme arthur")),
+    Key([mod], "a", lazy.spawn("rofi -show calc -modi calc -theme arthur")),
     KeyChord([mod], "c", [
         KeyChord([], "r", [
             Key([], "n", lazy.spawn("huepywal -r -l -n"), lazy.spawn("fish -c qtile_restart")),
             Key([], "m", lazy.spawn("huepywal -r -l -m"), lazy.spawn("fish -c qtile_restart"))
             ])
-        ])
+        ]),
+    Key([mod], "t", lazy.spawn("todoist"))
 ]
 
 groups = [
     Group("DEV", layout='columns'),
     Group("WWW", layout='columns'),
-    Group("SYS", layout='columns'),
     Group("TRM", layout='columns'),
+    Group("SYS", layout='columns'),
     Group("DOC", layout='columns'),
     Group("VBOX", layout='columns'),
     Group("CHAT", layout='columns'),
@@ -293,6 +295,10 @@ def init_widgets_list():
             background=colordict['colors']['color3'],
             padding=10,
         ),
+        widget.Battery(
+                background=colordict['colors']['color7'],
+                battery=0
+                ),
         # widget.TextBox(text='   ',
                        # font="Ubuntu Mono",
                        # background=colordict['colors']['color3'],
